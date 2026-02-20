@@ -8,6 +8,7 @@ Este projeto foi feito **principalmente para Omarchy (base Arch Linux)**, mas ta
 - Qualquer distro baseada em Arch
 
 ---
+![setupZsh](https://github.com/user-attachments/assets/9600c26b-0501-41bf-ac63-5484e63efc31)
 
 # 📦 O que este setup instala
 
