@@ -137,6 +137,13 @@ alias cls="clear"
 alias update="sudo pacman -Syu"
 alias lg="lazygit"
 
+
+# -----------------------------
+# ALIAS PNPM
+# -----------------------------
+alias pni='pnpm install'
+
+
 # Powerlevel10k config
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 EOF
